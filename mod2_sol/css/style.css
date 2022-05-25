@@ -9,10 +9,10 @@ section {
   width: 100%;
   }
 
-section > section {
+.title {
 position: absolute;
 top: 0;
-left: 0;
+right: 0;
 }
 
 /********** Large devices only **********/
